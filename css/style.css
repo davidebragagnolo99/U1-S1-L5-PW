@@ -1,0 +1,55 @@
+/* Your styles here */
+
+body {
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0;
+}
+
+.img-container{
+    background-color: #000;
+    padding: 25px;
+    text-align: center;
+}
+
+.img-header {
+    width: 100px;
+    justify-content: center;
+} 
+
+.img-bg{
+    margin: 0 0 0 0;
+    background-image: url("/assets/banner.jpg") ;
+    background-position: center;
+    background-size: 100%;
+    padding: 60px 20px; 
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    background-color: rgb(249, 56, 0);
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hot {
+    background-color: rgb(249, 56, 0);
+}
+.bbq {
+    background-color: rgb(11, 201, 227);
+}
+.cn {
+    background-color: rgb(255, 100, 0);
+}
+.img-bg h1 {
+    font-size: 30px;
+}
